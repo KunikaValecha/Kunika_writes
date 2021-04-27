@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>KUNIKA VALECHA</title>
+    <link>https://github.com/KunikaValecha/kunika_writes.github.io.git/</link>
+    <description>Recent content on KUNIKA VALECHA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Kunika Valecha</copyright>
+    <lastBuildDate>Sun, 09 Apr 2017 10:58:08 -0400</lastBuildDate>
+    
+	<atom:link href="https://github.com/KunikaValecha/kunika_writes.github.io.git/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The process of 2D Image Formation</title>
+      <link>https://github.com/KunikaValecha/kunika_writes.github.io.git/stories/post/the-process-of-2d-image-formation/</link>
+      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
+      
+      <guid>https://github.com/KunikaValecha/kunika_writes.github.io.git/stories/post/the-process-of-2d-image-formation/</guid>
+      <description>This blog has two parts,
+Part 1 : Image Projection Part 2 : Image Rendering
+In the first section we will see that how is an image captured. In second part we will dive into digitalization of an image signal.
+Part 1 : IMAGE PROJECTION Concept of Pinhole Camera In order to form an image on 2D grid we need the light rays from illumination source to hit the image sensor.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://github.com/KunikaValecha/kunika_writes.github.io.git/stories/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/KunikaValecha/kunika_writes.github.io.git/stories/contact/</guid>
+      <description>I am always up for healthy discussions, and just a mail away. Please feel free to reach me out.
+Your Name Email Address An email address is required.  Message   </description>
+    </item>
+    
+  </channel>
+</rss>
